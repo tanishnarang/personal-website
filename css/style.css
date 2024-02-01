@@ -106,3 +106,48 @@ nav ul li a{
 .tab-contents.active-tab{
     display: block;
 }
+
+
+
+
+
+/* -------------------------Services---------------------------- */
+
+.px-4{
+    color: #093145;
+}
+.feature-icon{
+    color: #093145;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.fs-2{
+    color: #093145;
+}
+.text-body-emphasi{
+    color: #093145;
+}
+
+
+
+
+/* ----------------------------------Contact Me------------------------------*/
+
+
+
+
+.contact-container{
+    margin-left: 100px;
+    color: #093145;
+}
+.contactme{
+    font-size: 3rem;
+}
+.left-row{
+    margin: 30px 80px;
+}
+
+.contact-left{
+    display: flex;
+}
